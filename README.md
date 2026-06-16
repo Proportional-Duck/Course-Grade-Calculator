@@ -27,7 +27,7 @@ A premium, web-based academic tool that allows students to **calculate course gr
 3. Instantly see your predicted grade and milestone targets
 
 ## 🔗 Live Demo
-👉 [course-grade-calculator-ten.vercel.app](https://course-grade-calculator-ten.vercel.app)
+👉 [[course-grade-calculator-ten.vercel.app](https://course-grade-calculator-ten.vercel.app)](https://proportional-duck.github.io/Course-Grade-Calculator/)
 
 ## 📖 Documentation
 For a full breakdown of the project architecture, tools, and technical implementation, see the [Detailed Project Documentation](./PROJECT_DOCUMENTATION.md).
